@@ -1,0 +1,25 @@
+# Python files
+*.py
+requirements.txt
+crypto_arbitrage_tracker_alert.py
+crypto_arbitrage_tracker_alert.bat
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Other files to ignore
+*.md
+LICENSE
+NOTICE
+ETHICS.md
+RELEASE_*.md
+assets/
+.vscode/
+.github/ 
